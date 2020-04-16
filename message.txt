@@ -1,2 +1,0 @@
-Cours Introduction à Git
-ligne deux
